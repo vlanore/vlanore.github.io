@@ -43,7 +43,7 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 ### International Peer-Reviewed Journals
 
-| **Fostering Reuse in Scientific Computing with Embedded Components: Application to high-performance Bayesian inference for bioinformatics**<br/>Lanore V.<br/>Computing in Science & Engineering (CiSE)  - Special issue on Accelerating Scientific Discovery with Reusable Software<br/><font color="red">(accepted for publication in 2019, preprint 10.1109/MCSE.2018.2883600)</font> <br/>[Full text](files/cise.pdf) |
+| **Fostering Reuse in Scientific Computing with Embedded Components: Application to high-performance Bayesian inference for bioinformatics**<br/>Lanore V.<br/>Computing in Science & Engineering (CiSE)  - Special issue on Accelerating Scientific Discovery with Reusable Software<br/><font color="red">(accepted for publication in 2019, preprint 10.1109/MCSE.2018.2883600)</font> <br/>[Full text](files/cise.pdf) - [IEEE preprint page](https://ieeexplore.ieee.org/document/8554141) |
 
 ### International Peer-Reviewed Conferences
 
@@ -73,7 +73,7 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 (Internal team and project talks not listed)
 
-| **Building high-performance bayesian inference applications with software components**<br/>APPLIBUGS Meeting<br/>Lyon, June 21st, 2018 |
+| **Building high-performance bayesian inference applications with software components**<br/>APPLIBUGS Meeting<br/>Lyon, June 21st, 2018<br/> [Slides](http://genome.jouy.inra.fr/applibugs/applibugs.18_06_21.vlanore.pdf) |
 
 | **A Reconfigurable Component Model for HPC, slides**<br/>Ctrl-A seminar presentation<br/>Grenoble, July 18th, 2015 |
 
