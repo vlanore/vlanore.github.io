@@ -11,9 +11,7 @@ layout: default
 
 ## Main software projects
 
-### tinycompo
-
-Repository: [github link](https://github.com/vlanore/tinycompo)
+### tinycompo ([link](https://github.com/vlanore/tinycompo))
 
 **Tinycompo** is a component-based framework embedded in C++. It proposes to describe applications as assemblies of software units called *components*.
 Contrary to existing component-based frameworks, tinycompo assemblies can be written directly in C++.
@@ -33,16 +31,14 @@ class HelloComponent : public tc::Component {
 
 int main() {
     tc::Model model; /* declaring an empty assembly model */
-    model.component<HelloComponent>("mycompo"); /* adding our hello component */
+    model.component<HelloComponent>("mycompo"); /* adding hello component */
 
     tc::Assembly assembly(model); /* instantiating assembly */
     assembly.call("hello", "mycompo"); /* calling the hello method */
 }
 ```
 
-### compoGM
-
-Repository: [github link](https://github.com/vlanore/compoGM)
+### compoGM ([link](https://github.com/vlanore/compoGM))
 
 **CompoGM** is a component-based Bayesian inference library that uses tinycompo.
 It proposes to build high performance Bayesian inference applications by assembling pre-made building blocks.
@@ -71,14 +67,4 @@ struct M0 : public Composite {
 
 ### bayescode
 
-### diffsel
-
-### Convergence detection pipeline 
-
-## Other software
-
-## Technological skills
-
-Languages
-
-parallelization / large scale
+### Convergence detection pipeline
