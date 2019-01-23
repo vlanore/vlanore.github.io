@@ -11,7 +11,7 @@ layout: default
 
 ## Main software projects
 
-### tinycompo ([link](https://github.com/vlanore/tinycompo))
+### Tinycompo ([link](https://github.com/vlanore/tinycompo))
 
 **Tinycompo** is a component-based framework embedded in C++. It proposes to describe applications as assemblies of software units called *components*.
 Contrary to existing component-based frameworks, tinycompo assemblies can be written directly in C++.
@@ -40,7 +40,7 @@ int main() {
 
 Tinycompo was presented in more details in [this journal article](files/cise.pdf).
 
-### compoGM ([link](https://github.com/vlanore/compoGM))
+### CompoGM ([link](https://github.com/vlanore/compoGM))
 
 **CompoGM** is a component-based Bayesian inference library that uses tinycompo.
 It proposes to build high performance Bayesian inference applications by assembling pre-made building blocks.
@@ -69,13 +69,19 @@ struct M0 : public Composite {
 
 CompoGM was presented in more details in [this journal article](files/cise.pdf).
 
-### bayescode ([link](https://github.com/bayesiancook/bayescode))
+### Bayescode ([link](https://github.com/bayesiancook/bayescode))
 
 I'm a contributor to **bayescode** which was initially written by *Nicolas Lartillot*.
-It is a collection of large-scale sequence analysis programs that use codon models and Bayesian inference.
+It is a collection of large-scale C++/MPI sequence analysis programs that use codon models and Bayesian inference.
 Along with *Bastien Boussau*, *Philippe Veber* and *Thibault Latrille*, we have endeavored to heavily refactor this code so that the development of new methods would be easier.
 
 Notable methods in bayescode include **diffsel**, a tool to detect adaptive convergent amino acid evolution.
 A multigene version of diffsel is currently being optimized for use on [supercomputer occigen](https://www.cines.fr/calcul/materiels/occigen/).
 
-### Convergence detection pipeline
+### Convergence method evaluation pipeline
+
+I co-wrote a **pipeline to evaluate convergence detection methods** along with *Carine Rey* and *Philippe Veber*.
+This pipeline is meant to run existing convergence detection methods from the literature and compare their results on simulated data.
+It is written in OCaml using the [bistro](https://github.com/pveber/bistro) workflow framework.
+
+A review of existing convergence detection methods was conducted using this pipeline. Results can be seen in [this paper](https://www.biorxiv.org/content/early/2019/01/07/513010).
