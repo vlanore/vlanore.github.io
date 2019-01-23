@@ -12,7 +12,7 @@ layout: default
 ## Current situation
 
 **Temporary researcher** (CDD chercheur) at CNRS in ["Le Cocon" team](https://lbbe.univ-lyon1.fr/-Equipe-Le-Cocon-.html) at [LBBE](https://lbbe.univ-lyon1.fr/).<br/>
-Working on comparative genomics, high-performance bayesian inference and software engineering high-performance bioinformatics.<br/>
+Working on comparative genomics, high-performance bayesian inference and software engineering for high-performance bioinformatics.<br/>
 Work done in the context of the convergenomix project.<br/>
 Started on 2016/11/01.
 
