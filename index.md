@@ -67,7 +67,7 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 | **A Calculus Enabling Reuse and Composition of Component Assembly Specialization Processes**<br/>Lanore V., Pérez C.<br/>Inria Research Report n°8761 (2015) <br/>[Full text on HAL](https://hal.archives-ouvertes.fr/hal-01179483) |
 
-| **Evaluating Component Assembly Specialization for 3D FFT**<br/>Richard J., Lanore V., Pérez C.<br/>PRACE White Paper n°182 (2014) <br/>[Full text](files/whitepaper.pdf) |
+| **Evaluating Component Assembly Specialization for 3D FFT**<br/>Richard J., Lanore V., Pérez C.<br/>PRACE White Paper n°182 (2014) <br/>[Full text](http://www.prace-ri.eu/IMG/pdf/WP182.pdf) |
 
 ## External talks
 
