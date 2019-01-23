@@ -25,9 +25,9 @@ layout: default
 
 | **Generating SMECY API from Annotated Sequential Code with ROSE Compiler**<br/>Short M1 (master first year) internship, summer 2011, HPC Project Montpellier<br/>Under the  direction of Ronan Keryell and Thierry Porcher |
 
-| **Bioinformatics and hybrid computing**<br/>(Bioinformatique et calcul hybride -fr-)<br/>Long M1 (master first year) internship, spring 2011, LBBE laboratory, Lyon<br/>Under the direction of Vincent Miele - slides - report |
+| **Bioinformatics and hybrid computing**<br/>(*Bioinformatique et calcul hybride*)<br/>Long M1 (master first year) internship, spring 2011, LBBE laboratory, Lyon<br/>Under the direction of Vincent Miele<br/> [Slides](files/bioinf_slides.pdf) - [Report](files/bioinf_report.pdf) |
 
-| **Developing an intelligent tool to ease live creation of shows mixing music and video**<br/>(Développement d'un outil intelligent d'assistance à la création de spectacles alliant musique et vidéo -fr-)<br/>L3 internship, summer 2010, LIRIS laboratory, Lyon<br/>Under the direction of Amélie Cordier |
+| **Developing an intelligent tool to ease live creation of shows mixing music and video**<br/>(*Développement d'un outil intelligent d'assistance à la création de spectacles alliant musique et vidéo*)<br/>L3 internship, summer 2010, LIRIS laboratory, Lyon<br/>Under the direction of Amélie Cordier |
 
 ## Work with Companies
 
