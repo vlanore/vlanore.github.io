@@ -53,8 +53,8 @@ Here is an example model specified using CompoGM:
 
 ```c++
 struct M0 : public Composite {
-    static void contents(
-        Model& m, IndexSet& experiments, IndexSet& samples, map<string, map<string, int>>& data) {
+    static void contents(Model& m, IndexSet& experiments, IndexSet& samples,
+                         map<string, map<string, int>>& data) {
         m.component<OrphanExp>("alpha", 1, 1);
         m.component<OrphanExp>("mu", 1, 1);
 
