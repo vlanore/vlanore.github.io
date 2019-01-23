@@ -5,7 +5,6 @@ layout: default
 
 | [Research](index.html)<br/>(thesis, papers, talks...) | [Rest of CV](cv.html)<br/>(formation, teaching...) | [Software development](soft.html)<br/>(projects, skills) | [Contact](contact.html)<br/>(contact info)
 
----------------------------------------------------------------
 
 ## Current situation
 
@@ -79,7 +78,7 @@ Grenoble: France (2013) - article
 
 ### Articles under Review
 
-**Detecting convergent adaptive amino acid evolution**
+**Detecting convergent adaptive amino acid evolution**<br/>
 Rey C., Lanore V., Veber P., Guéguen L., Lartillot N., Sémon M., Boussau B.<br/>
 Philosophical Transactions of the Royal Society B.<br/>
 The paper was submitted in September 2018 and is currently undergoing a minor revision.<br/>
@@ -98,8 +97,31 @@ PRACE White Paper n°182 (2014) - article
 
 ## External talks
 
-test
+(Internal team and project talks not listed)
+
+**Building high-performance bayesian inference applications with software components**<br/>
+APPLIBUGS Meeting<br/>
+Lyon, June 21st, 2018
+
+**A Reconfigurable Component Model for HPC, slides**<br/>
+Ctrl-A seminar presentation<br/>
+Grenoble, July 18th, 2015
+
+**Towards a Reconfigurable HPC Component Model, slides**<br/>
+C2S@EXA Meeting<br/>
+Bordeaux, July 10th, 2014
+
+**Static 2D FFT Adaptation Through a Component Model Based on Charm++ (preliminary results), slides**<br/>
+9th Workshop of the INRIA-Illinois Joint Laboratory on Petascale Computing<br/>
+Lyon, June 14th, 2013
+
 
 ## Participation to internship supervision
 
-test
+**Conception et formalisation d’un mini-langage pour décrire des assemblages complexes à base de graphes**<br/>
+Maverick Chardet<br/>
+L3 internship, summer 2015, 2 months
+
+**Implémentation et évaluation d’algorithmes parallèles de FFT 3D à base de modèles à composants logiciels**<br/>
+Jérôme Richard<br/>
+M2 internship, summer 2014 
