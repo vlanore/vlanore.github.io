@@ -3,6 +3,8 @@ title: Vincent Lanore
 layout: default
 ---
 
+[Rest of CV](cv.html)
+
 # Current situation
 
 test
