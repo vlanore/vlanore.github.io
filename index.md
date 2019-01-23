@@ -23,7 +23,7 @@ LIP laboratory, AVALON team, funded by ENS de Lyon<br/>
 Starting date: 2012/10/01, defended on 2015/12/10<br/>
 Thesis page on theses.fr (includes manuscript pdf)
 
-Jury composed of:<br/>
+## Jury
 * Mr Raymond Namyst, professor, Univ. of Bordeaux, president
 * Mr Marco Danelutto, associate professor, Univ. of Pisa, reviewer
 * Ms Laurence Duchien, professor, Univ. of Lille 1, examiner
@@ -31,9 +31,10 @@ Jury composed of:<br/>
 * Mr Christian Perez, senior researcher, Inria, thesis director
 * Mr Jean-Bernard Stefani, senior researcher, Inria, reviewer and examiner
 
-Abstract:<br/>
-> Component-based programming is a programming paradigm which eases code reuse and separation of concerns. Some component models, which are said to be "reconfigurable", allow the modification at runtime of an application's structure. However, these models are not suited to High-Performance Computing (HPC) as they rely on non-scalable mechanisms.<br/><br/>
-The goal of this thesis is to provide models, algorithms and tools to ease the development of component-based reconfigurable HPC applications.The main contribution of the thesis is the DirectMOD component model which eases development and reuse of distributed transformations. In order to improve on this core model in other directions, we have also proposed:<br/>
+## Abstract
+Component-based programming is a programming paradigm which eases code reuse and separation of concerns. Some component models, which are said to be "reconfigurable", allow the modification at runtime of an application's structure. However, these models are not suited to High-Performance Computing (HPC) as they rely on non-scalable mechanisms.
+
+The goal of this thesis is to provide models, algorithms and tools to ease the development of component-based reconfigurable HPC applications.The main contribution of the thesis is the DirectMOD component model which eases development and reuse of distributed transformations. In order to improve on this core model in other directions, we have also proposed:
 * the SpecMOD formal component model which allows automatic specialization of hierarchical component assemblies and provides high-level software engineering features;
 * mechanisms for efficient fine-grain reconfiguration for AMR applications, an important application class in HPC.
 
