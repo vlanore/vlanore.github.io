@@ -11,8 +11,8 @@ layout: default
 
 ## Current situation
 
-**Temporary researcher** (CDD chercheur) at CNRS in the BPGE team at LBBE.<br/>
-Working on high-performance bayesian inference for bioinformatics.<br/>
+**Temporary researcher** (CDD chercheur) at CNRS in ["Le Cocon" team](https://lbbe.univ-lyon1.fr/-Equipe-Le-Cocon-.html) at [LBBE](https://lbbe.univ-lyon1.fr/).<br/>
+Working on comparative genomics, high-performance bayesian inference and software engineering high-performance bioinformatics.<br/>
 Work done in the context of the convergenomix project.<br/>
 Started on 2016/11/01.
 
@@ -21,7 +21,7 @@ Started on 2016/11/01.
 **On Scalable Reconfigurable Component Models for HPC**<br/>
 (*Modèles à composants reconfigurables et passant à l'échelle pour le calcul haute performance*)<br/>
 Under the direction of Christian Pérez<br/>
-LIP laboratory, AVALON team, funded by ENS de Lyon<br/>
+LIP laboratory, [AVALON team](https://www.inria.fr/en/teams/avalon), funded by ENS de Lyon<br/>
 Starting date: 2012/10/01, defended on 2015/12/10<br/>
 [Full text on theses.fr](http://www.theses.fr/2015ENSL1051)
 
