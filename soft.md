@@ -13,6 +13,8 @@ layout: default
 
 ### tinycompo
 
+Repository: [github link](https://github.com/vlanore/tinycompo)
+
 **Tinycompo** is a component-based framework embedded in C++. It proposes to describe applications as assemblies of software units called *components*.
 Contrary to existing component-based frameworks, tinycompo assemblies can be written directly in C++.
 Tinycompo leverages C++11 features to provide a syntax as close as possible to a declarative assembly description language.
@@ -39,6 +41,8 @@ int main() {
 ```
 
 ### compoGM
+
+Repository: [github link](https://github.com/vlanore/compoGM)
 
 **CompoGM** is a component-based Bayesian inference library that uses tinycompo.
 It proposes to build high performance Bayesian inference applications by assembling pre-made building blocks.
