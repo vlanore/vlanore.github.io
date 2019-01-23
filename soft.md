@@ -38,6 +38,8 @@ int main() {
 }
 ```
 
+Tinycompo was presented in more details in [this journal article](files/cise.pdf).
+
 ### compoGM ([link](https://github.com/vlanore/compoGM))
 
 **CompoGM** is a component-based Bayesian inference library that uses tinycompo.
@@ -65,6 +67,15 @@ struct M0 : public Composite {
 };
 ```
 
-### bayescode
+CompoGM was presented in more details in [this journal article](files/cise.pdf).
+
+### bayescode ([link](https://github.com/bayesiancook/bayescode))
+
+I'm a contributor to **bayescode** which was initially written by *Nicolas Lartillot*.
+It is a collection of large-scale sequence analysis programs that use codon models and Bayesian inference.
+Along with *Bastien Boussau*, *Philippe Veber* and *Thibault Latrille*, we have endeavored to heavily refactor this code so that the development of new methods would be easier.
+
+Notable methods in bayescode include **diffsel**, a tool to detect adaptive convergent amino acid evolution.
+A multigene version of diffsel is currently being optimized for use on [supercomputer occigen](https://www.cines.fr/calcul/materiels/occigen/).
 
 ### Convergence detection pipeline
