@@ -33,8 +33,7 @@ Jury composed of:<br/>
 
 Abstract:<br/>
 > Component-based programming is a programming paradigm which eases code reuse and separation of concerns. Some component models, which are said to be "reconfigurable", allow the modification at runtime of an application's structure. However, these models are not suited to High-Performance Computing (HPC) as they rely on non-scalable mechanisms.
-
-> The goal of this thesis is to provide models, algorithms and tools to ease the development of component-based reconfigurable HPC applications.The main contribution of the thesis is the DirectMOD component model which eases development and reuse of distributed transformations. In order to improve on this core model in other directions, we have also proposed:<br/>
+<p/> The goal of this thesis is to provide models, algorithms and tools to ease the development of component-based reconfigurable HPC applications.The main contribution of the thesis is the DirectMOD component model which eases development and reuse of distributed transformations. In order to improve on this core model in other directions, we have also proposed:<br/>
 * the SpecMOD formal component model which allows automatic specialization of hierarchical component assemblies and provides high-level software engineering features;
 * mechanisms for efficient fine-grain reconfiguration for AMR applications, an important application class in HPC.
 
