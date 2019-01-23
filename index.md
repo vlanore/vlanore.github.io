@@ -51,7 +51,11 @@ Computing in Science & Engineering (CiSE)  - Special issue on Accelerating Scien
 
 ### International Peer-Reviewed Conferences
 
-| **A Reconfigurable Component Model for HPC**<br/>Lanore V., Pérez C.<br/>The 18th International ACM Sigsoft Symposium on Component-Based Software Engineering (CBSE'2015)<br/>Montréal: Canada (2015) - report version - article <br/>International Peer-Reviewed Workshops |
+| **A Reconfigurable Component Model for HPC**<br/>
+Lanore V., Pérez C.<br/>
+The 18th International ACM Sigsoft Symposium on Component-Based Software Engineering (CBSE'2015)<br/>
+Montréal: Canada (2015) - report version - article <br/>
+International Peer-Reviewed Workshops |
 
 **Towards Application Variability Handling with Component Models: 3D-FFT Use Case Study**<br/>
 Lanore V., Pérez C., Richard J.<br/>
