@@ -3,7 +3,9 @@ title: Vincent Lanore
 layout: default
 ---
 
-[Rest of CV](cv.html)
+| [Rest of CV](cv.html) | [Software development](soft.html) |
+-------------------------------------------------------------
+| info                  | info                              |
 
 # Current situation
 
