@@ -4,7 +4,7 @@ layout: default
 ---
 
 | [Rest of CV](cv.html) | [Software development](soft.html) |
--------------------------------------------------------------
+|-----------------------|-----------------------------------|
 | info                  | info                              |
 
 # Current situation
