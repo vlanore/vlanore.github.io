@@ -5,6 +5,7 @@ layout: default
 
 | [Research](index.html)<br/>(thesis, papers, talks...) | [Rest of CV](cv.html)<br/>(formation, teaching...) | [Software development](soft.html)<br/>(projects, skills) | [Contact](contact.html)<br/>(contact info)
 
+# Research
 * TOC
 {:toc}
 
@@ -63,7 +64,7 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 ### Articles under Review
 
-| **Detecting convergent adaptive amino acid evolution**<br/>Rey C., Lanore V., Veber P., Guéguen L., Lartillot N., Sémon M., Boussau B.<br/>Philosophical Transactions of the Royal Society B.<br/><font color="red">The paper was submitted in September 2018 and is currently undergoing a minor revision.</font><br/>Submitted version available on BiorXiv.<br/>[Full text on BioRxiv](https://www.biorxiv.org/content/early/2019/01/07/513010) |
+| **Detecting convergent adaptive amino acid evolution**<br/>Rey C., Lanore V., Veber P., Guéguen L., Lartillot N., Sémon M., Boussau B.<br/>Philosophical Transactions of the Royal Society B.<br/><font color="red">The paper was submitted in September 2018 and is currently undergoing revision.</font><br/>Submitted version available on BiorXiv.<br/>[Full text on BioRxiv](https://www.biorxiv.org/content/early/2019/01/07/513010) |
 
 ### Technical Reports and White Papers
 
