@@ -78,7 +78,7 @@ Along with *Bastien Boussau*, *Philippe Veber* and *Thibault Latrille*, we have 
 Notable methods in bayescode include **diffsel**, a tool to detect adaptive convergent amino acid evolution.
 A multigene version of diffsel is currently being optimized for use on [supercomputer occigen](https://www.cines.fr/calcul/materiels/occigen/).
 
-### Convergence method evaluation pipeline
+### Convergence method evaluation pipeline ([link](https://gitlab.in2p3.fr/pveber/reviewphiltrans))
 
 I co-wrote a **pipeline to evaluate convergence detection methods** along with *Carine Rey* and *Philippe Veber*.
 This pipeline is meant to run existing convergence detection methods from the literature and compare their results on simulated data.
