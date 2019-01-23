@@ -1,5 +1,5 @@
 ---
-title: Vincent Lanore - Professional web page
+title: Vincent Lanore
 layout: default
 ---
 
