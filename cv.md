@@ -35,7 +35,7 @@ layout: default
 
 ## Teaching
 
-| **Good practices for object-oriented programming**<br/>Two 3-hour courses for first-year bioinformatics master students<br/>Université Lyon 1, autumn 2018 |
+| **Good practices for object-oriented programming**<br/>Two 3-hour courses for first-year bioinformatics master students<br/>Université Lyon 1, autumn 2018<br/>[Slides](http://vlanore.eu:1948) |
 
 | **Tutoring for the LOG (logic) course**<br/> ENS de Lyon, spring 2014 |
 
