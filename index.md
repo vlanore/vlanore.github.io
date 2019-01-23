@@ -3,9 +3,7 @@ title: Vincent Lanore
 layout: default
 ---
 
-| [Rest of CV](cv.html) | [Software development](soft.html) |
-|-----------------------|-----------------------------------|
-| info                  | info                              |
+[Research](index.html) (thesis, papers, talks) - [Rest of CV](cv.html) (formation, teaching, internships...) - [Software development](soft.html)
 
 # Current situation
 
