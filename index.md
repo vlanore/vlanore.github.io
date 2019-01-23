@@ -20,7 +20,7 @@ Started on 2016/11/01.
 Under the direction of Christian Pérez<br/>
 LIP laboratory, AVALON team, funded by ENS de Lyon<br/>
 Starting date: 2012/10/01, defended on 2015/12/10<br/>
-Thesis page on theses.fr (includes manuscript pdf)
+[Full text on theses.fr](http://www.theses.fr/2015ENSL1051)
 
 ### Jury
 * Mr Raymond Namyst, professor, Univ. of Bordeaux, president
@@ -43,7 +43,7 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 ### International Peer-Reviewed Journals
 
-| **Fostering Reuse in Scientific Computing with Embedded Components: Application to high-performance Bayesian inference for bioinformatics**<br/>Lanore V.<br/>Computing in Science & Engineering (CiSE)  - Special issue on Accelerating Scientific Discovery with Reusable Software<br/>*(accepted for publication in 2019, preprint 10.1109/MCSE.2018.2883600)* |
+| **Fostering Reuse in Scientific Computing with Embedded Components: Application to high-performance Bayesian inference for bioinformatics**<br/>Lanore V.<br/>Computing in Science & Engineering (CiSE)  - Special issue on Accelerating Scientific Discovery with Reusable Software<br/>*(accepted for publication in 2019, preprint 10.1109/MCSE.2018.2883600)* <br/>[Full text](files/cise.pdf) |
 
 
 ### International Peer-Reviewed Conferences
