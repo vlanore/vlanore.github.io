@@ -31,7 +31,7 @@ layout: default
 
 ## Work with Companies
 
-| **Scientific writer for Elkios Group (website -fr-)**<br/>complementary activity during PhD thesis as a doctorant-conseil (explanations -fr-)<br/>Lyon, 2015-2016 |
+| **Scientific writer for Elkios Group ([website](http://www.elkiosgroup.com/))**<br/>complementary activity during PhD thesis as a doctorant-conseil ([explanations](http://www.medeflyonrhone.fr/wp-content/uploads/2013/07/plaquette-dc-ens-29-03.pdf))<br/>Lyon, 2015-2016 |
 
 ## Teaching
 
@@ -55,7 +55,7 @@ layout: default
 
 ## Science popularization
 
-| **Talk at the Ain Terre Maths conference**<br/>At the foundations of computer science: computing models<br/>(Aux fondements de l'informatique: les modèles de calcul -fr-)<br/>Public d'élèves de seconde et troisième<br/>Lycée international de Ferney-Voltaire, February 2014 |
+| **Talk at the Ain Terre Maths conference**<br/>At the foundations of computer science: computing models<br/>(*Aux fondements de l'informatique: les modèles de calcul*)<br/>Public d'élèves de seconde et troisième<br/>Lycée international de Ferney-Voltaire, February 2014 |
 
 ## Administrative Charges
 
