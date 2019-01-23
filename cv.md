@@ -21,9 +21,9 @@ layout: default
 
 ## Research internships
 
-| **On scheduling multi-level applications**<br/>M2 (master second year) internship, spring 2012, LIP, ENS de Lyon<br/>Under the direction of Cristian Klein and Christian  |Pérez
+| **On scheduling multi-level applications**<br/>M2 (master second year) internship, spring 2012, LIP, ENS de Lyon<br/>Under the direction of Cristian Klein and Christian Pérez |
 
-| **Generating SMECY API from Annotated Sequential Code with ROSE Compiler**<br/>Short M1 (master first year) internship, summer 2011, HPC Project Montpellier<br/>Under the  |direction of Ronan Keryell and Thierry Porcher
+| **Generating SMECY API from Annotated Sequential Code with ROSE Compiler**<br/>Short M1 (master first year) internship, summer 2011, HPC Project Montpellier<br/>Under the  direction of Ronan Keryell and Thierry Porcher |
 
 | **Bioinformatics and hybrid computing**<br/>(Bioinformatique et calcul hybride -fr-)<br/>Long M1 (master first year) internship, spring 2011, LBBE laboratory, Lyon<br/>Under the direction of Vincent Miele - slides - report |
 
