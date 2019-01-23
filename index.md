@@ -78,11 +78,11 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 | **Building high-performance bayesian inference applications with software components**<br/>APPLIBUGS Meeting<br/>Lyon, June 21st, 2018<br/> [Slides](http://genome.jouy.inra.fr/applibugs/applibugs.18_06_21.vlanore.pdf) |
 
-| **A Reconfigurable Component Model for HPC, slides**<br/>Ctrl-A seminar presentation<br/>Grenoble, July 18th, 2015 |
+| **A Reconfigurable Component Model for HPC**<br/>Ctrl-A seminar presentation<br/>Grenoble, July 18th, 2015<br/>[Slides](files/ctrl-a.pdf) |
 
-| **Towards a Reconfigurable HPC Component Model, slides**<br/>C2S@EXA Meeting<br/>Bordeaux, July 10th, 2014 |
+| **Towards a Reconfigurable HPC Component Model**<br/>C2S@EXA Meeting<br/>Bordeaux, July 10th, 2014<br/>[Slides](files/cs2exa.pdf) |
 
-| **Static 2D FFT Adaptation Through a Component Model Based on Charm++ (preliminary results), slides**<br/>9th Workshop of the INRIA-Illinois Joint Laboratory on Petascale Computing<br/>Lyon, June 14th, 2013 |
+| **Static 2D FFT Adaptation Through a Component Model Based on Charm++ (preliminary results)**<br/>9th Workshop of the INRIA-Illinois Joint Laboratory on Petascale Computing<br/>Lyon, June 14th, 2013<br/>[Slides](files/jointlab.pdf) |
 
 
 ## Participation to internship supervision
