@@ -11,7 +11,7 @@ layout: default
 
 ## Main software projects
 
-### tinycompo
+### tinycompo
 
 Repository: [github link](https://github.com/vlanore/tinycompo)
 
