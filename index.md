@@ -43,85 +43,47 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 ### International Peer-Reviewed Journals
 
-**Fostering Reuse in Scientific Computing with Embedded Components: Application to high-performance Bayesian inference for bioinformatics**<br/>
-Lanore V.<br/>
-Computing in Science & Engineering (CiSE)  - Special issue on Accelerating Scientific Discovery with Reusable Software<br/>
-*(accepted for publication in 2019, preprint 10.1109/MCSE.2018.2883600)*
+| **Fostering Reuse in Scientific Computing with Embedded Components: Application to high-performance Bayesian inference for bioinformatics**<br/>Lanore V.<br/>Computing in Science & Engineering (CiSE)  - Special issue on Accelerating Scientific Discovery with Reusable Software<br/>*(accepted for publication in 2019, preprint 10.1109/MCSE.2018.2883600)* |
 
 
 ### International Peer-Reviewed Conferences
 
-| **A Reconfigurable Component Model for HPC**<br/>
-Lanore V., Pérez C.<br/>
-The 18th International ACM Sigsoft Symposium on Component-Based Software Engineering (CBSE'2015)<br/>
-Montréal: Canada (2015) - report version - article <br/>
-International Peer-Reviewed Workshops |
+| **A Reconfigurable Component Model for HPC**<br/>Lanore V., Pérez C.<br/>The 18th International ACM Sigsoft Symposium on Component-Based Software Engineering (CBSE'2015)<br/>Montréal: Canada (2015) - report version - article <br/>International Peer-Reviewed Workshops | |
 
-**Towards Application Variability Handling with Component Models: 3D-FFT Use Case Study**<br/>
-Lanore V., Pérez C., Richard J.<br/>
-The 8th Workshop on UnConventional High Performance Computing (UCHPC'15)<br/>
-Vienna: Austria (2015) - article - conference version of this white paper
+| **Towards Application Variability Handling with Component Models: 3D-FFT Use Case Study**<br/>Lanore V., Pérez C., Richard J.<br/>The 8th Workshop on UnConventional High Performance Computing (UCHPC'15)<br/>Vienna: Austria (2015) - article - conference version of this white paper |
 
 ### National Peer-Reviewed Conferences
 
-**Easing Locking of High-Performance Call-Stack-Based Component Assemblies**<br/>
-(*Simplifier le verrouillage d’assemblages de composants haute performance à pile d’appel*)<br/>
-Lanore V.<br/>
-Conférence en parallélisme, architecture et système (Compas'2015) <br/>
-Lille: France (2015) - article
+| **Easing Locking of High-Performance Call-Stack-Based Component Assemblies**<br/>(*Simplifier le verrouillage d’assemblages de composants haute performance à pile d’appel*)<br/>Lanore V.<br/>Conférence en parallélisme, architecture et système (Compas'2015) <br/>Lille: France (2015) - article |
 
-**On Scheduling Multi-level Applications**<br/>
-(*De l'ordonnancement des applications multi-niveaux*)<br/>
-Lanore V., Klein C.<br/>
-Conférence en parallélisme, architecture et système (ComPAS'2013) <br/>
-Grenoble: France (2013) - article
+| **On Scheduling Multi-level Applications**<br/>(*De l'ordonnancement des applications multi-niveaux*)<br/>Lanore V., Klein C.<br/>Conférence en parallélisme, architecture et système (ComPAS'2013) <br/>Grenoble: France (2013) - article |
 
 ### Articles under Review
 
-**Detecting convergent adaptive amino acid evolution**<br/>
-Rey C., Lanore V., Veber P., Guéguen L., Lartillot N., Sémon M., Boussau B.<br/>
-Philosophical Transactions of the Royal Society B.<br/>
-The paper was submitted in September 2018 and is currently undergoing a minor revision.<br/>
-Submitted version available on BiorXiv.
+| **Detecting convergent adaptive amino acid evolution**<br/>Rey C., Lanore V., Veber P., Guéguen L., Lartillot N., Sémon M., Boussau B.<br/>Philosophical Transactions of the Royal Society B.<br/>The paper was submitted in September 2018 and is currently undergoing a minor revision.<br/>Submitted version available on BiorXiv. |
 
 
 ### Technical Reports and White Papers
 
-**A Calculus Enabling Reuse and Composition of Component Assembly Specialization Processes**<br/>
-Lanore V., Pérez C.<br/>
-Inria Research Report n°8761 (2015) - report
+| **A Calculus Enabling Reuse and Composition of Component Assembly Specialization Processes**<br/>Lanore V., Pérez C.<br/>Inria Research Report n°8761 (2015) - report |
 
-**Evaluating Component Assembly Specialization for 3D FFT**<br/>
-Richard J., Lanore V., Pérez C.<br/>
-PRACE White Paper n°182 (2014) - article
+| **Evaluating Component Assembly Specialization for 3D FFT**<br/>Richard J., Lanore V., Pérez C.<br/>PRACE White Paper n°182 (2014) - article |
 
 ## External talks
 
 (Internal team and project talks not listed)
 
-**Building high-performance bayesian inference applications with software components**<br/>
-APPLIBUGS Meeting<br/>
-Lyon, June 21st, 2018
+| **Building high-performance bayesian inference applications with software components**<br/>APPLIBUGS Meeting<br/>Lyon, June 21st, 2018 |
 
-**A Reconfigurable Component Model for HPC, slides**<br/>
-Ctrl-A seminar presentation<br/>
-Grenoble, July 18th, 2015
+| **A Reconfigurable Component Model for HPC, slides**<br/>Ctrl-A seminar presentation<br/>Grenoble, July 18th, 2015 |
 
-**Towards a Reconfigurable HPC Component Model, slides**<br/>
-C2S@EXA Meeting<br/>
-Bordeaux, July 10th, 2014
+| **Towards a Reconfigurable HPC Component Model, slides**<br/>C2S@EXA Meeting<br/>Bordeaux, July 10th, 2014 |
 
-**Static 2D FFT Adaptation Through a Component Model Based on Charm++ (preliminary results), slides**<br/>
-9th Workshop of the INRIA-Illinois Joint Laboratory on Petascale Computing<br/>
-Lyon, June 14th, 2013
+| **Static 2D FFT Adaptation Through a Component Model Based on Charm++ (preliminary results), slides**<br/>9th Workshop of the INRIA-Illinois Joint Laboratory on Petascale Computing<br/>Lyon, June 14th, 2013 |
 
 
 ## Participation to internship supervision
 
-**Conception et formalisation d’un mini-langage pour décrire des assemblages complexes à base de graphes**<br/>
-Maverick Chardet<br/>
-L3 internship, summer 2015, 2 months
+| **Conception et formalisation d’un mini-langage pour décrire des assemblages complexes à base de graphes**<br/>Maverick Chardet<br/>L3 internship, summer 2015, 2 months |
 
-**Implémentation et évaluation d’algorithmes parallèles de FFT 3D à base de modèles à composants logiciels**<br/>
-Jérôme Richard<br/>
-M2 internship, summer 2014 
+| **Implémentation et évaluation d’algorithmes parallèles de FFT 3D à base de modèles à composants logiciels**<br/>Jérôme Richard<br/>M2 internship, summer 2014  |
