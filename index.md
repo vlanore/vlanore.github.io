@@ -23,7 +23,7 @@ LIP laboratory, AVALON team, funded by ENS de Lyon<br/>
 Starting date: 2012/10/01, defended on 2015/12/10<br/>
 Thesis page on theses.fr (includes manuscript pdf)
 
-Jury composed of:
+Jury composed of:<br/>
 * Mr Raymond Namyst, professor, Univ. of Bordeaux, president
 * Mr Marco Danelutto, associate professor, Univ. of Pisa, reviewer
 * Ms Laurence Duchien, professor, Univ. of Lille 1, examiner
@@ -42,7 +42,46 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 # Publications
 
-test
+## International Peer-Reviewed Journals
+
+## International Peer-Reviewed Conferences
+
+**A Reconfigurable Component Model for HPC**<br/>
+Lanore V., Pérez C.<br/>
+The 18th International ACM Sigsoft Symposium on Component-Based Software Engineering (CBSE'2015)<br/>
+Montréal: Canada (2015) - report version - article <br/>
+International Peer-Reviewed Workshops
+
+**Towards Application Variability Handling with Component Models: 3D-FFT Use Case Study**<br/>
+Lanore V., Pérez C., Richard J.<br/>
+The 8th Workshop on UnConventional High Performance Computing (UCHPC'15)<br/>
+Vienna: Austria (2015) - article - conference version of this white paper
+
+## National Peer-Reviewed Conferences
+
+**Easing Locking of High-Performance Call-Stack-Based Component Assemblies**<br/>
+(*Simplifier le verrouillage d’assemblages de composants haute performance à pile d’appel*)<br/>
+Lanore V.<br/>
+Conférence en parallélisme, architecture et système (Compas'2015) <br/>
+Lille: France (2015) - article
+
+**On Scheduling Multi-level Applications**<br/>
+(*De l'ordonnancement des applications multi-niveaux*)<br/>
+Lanore V., Klein C.<br/>
+Conférence en parallélisme, architecture et système (ComPAS'2013) <br/>
+Grenoble: France (2013) - article
+
+## Articles under Review
+
+## Technical Reports and White Papers
+
+**A Calculus Enabling Reuse and Composition of Component Assembly Specialization Processes**<br/>
+Lanore V., Pérez C.<br/>
+Inria Research Report n°8761 (2015) - report
+
+**Evaluating Component Assembly Specialization for 3D FFT**<br/>
+Richard J., Lanore V., Pérez C.<br/>
+PRACE White Paper n°182 (2014) - article
 
 # External talks
 
