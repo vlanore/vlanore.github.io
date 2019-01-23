@@ -3,6 +3,8 @@ title: Vincent Lanore
 layout: default
 ---
 
+| [Research](index.html)<br/>(thesis, papers, talks...) | [Rest of CV](cv.html)<br/>(formation, teaching...) | [Software development](soft.html)<br/>(projects, skills) | [Contact](contact.html)<br/>(contact info)
+
 Laboratoire de Biométrie et Biologie Evolutive (LBBE)<br/>
 UCB Lyon 1 - Bât. Grégor Mendel<br/>
 43 bd du 11 novembre 1918<br/>
