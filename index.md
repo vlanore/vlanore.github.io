@@ -44,6 +44,12 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 ### International Peer-Reviewed Journals
 
+**Fostering Reuse in Scientific Computing with Embedded Components: Application to high-performance Bayesian inference for bioinformatics**<br/>
+Lanore V.<br/>
+Computing in Science & Engineering (CiSE)  - Special issue on Accelerating Scientific Discovery with Reusable Software<br/>
+*(accepted for publication in 2019, preprint 10.1109/MCSE.2018.2883600)*
+
+
 ### International Peer-Reviewed Conferences
 
 **A Reconfigurable Component Model for HPC**<br/>
@@ -72,6 +78,13 @@ Conférence en parallélisme, architecture et système (ComPAS'2013) <br/>
 Grenoble: France (2013) - article
 
 ### Articles under Review
+
+**Detecting convergent adaptive amino acid evolution**
+Rey C., Lanore V., Veber P., Guéguen L., Lartillot N., Sémon M., Boussau B.<br/>
+Philosophical Transactions of the Royal Society B.<br/>
+The paper was submitted in September 2018 and is currently undergoing a minor revision.<br/>
+Submitted version available on BiorXiv.
+
 
 ### Technical Reports and White Papers
 
