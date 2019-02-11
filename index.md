@@ -76,7 +76,7 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 (Internal team and project talks not listed. Conference talks with associated papers listed above as papers)
 
-| **Detecting convergent substitutions with sparse codon-based differential-selection models**<br/>ALPHY conference<br/>Paris, February 8th<br/><font color="red">Coming soon</font>, [abstract](alphy.html) |
+| **Detecting convergent substitutions with sparse codon-based differential-selection models**<br/>ALPHY conference<br/>Paris, February 8th<br/>[abstract](alphy.html) - [slides](files/alphy.pdf) |
 
 | **Building high-performance bayesian inference applications with software components**<br/>APPLIBUGS Meeting<br/>Lyon, June 21st, 2018<br/> [Slides](http://genome.jouy.inra.fr/applibugs/applibugs.18_06_21.vlanore.pdf) |
 
