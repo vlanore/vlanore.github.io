@@ -74,7 +74,7 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 ### Other
 
-| **Towards Reconfigurable HPC Component Models**<br/> Perez C., Lanore V.<br/> International Conference on High Performance Computing & Simulation (HPCS). IEEE, 2018.<br/> Paper for keynote talk by Christian Pérez <br/>[Full text](files/hpcs.pdf) |
+| **Towards Reconfigurable HPC Component Models**<br/> Perez C., Lanore V.<br/> International Conference on High Performance Computing & Simulation (HPCS). IEEE, 2018.<br/> Extended abstract for keynote talk by Christian Pérez <br/>[Abstract full text](files/hpcs.pdf) |
 
 ## External talks
 
