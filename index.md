@@ -72,6 +72,10 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 | **Evaluating Component Assembly Specialization for 3D FFT**<br/>Richard J., Lanore V., Pérez C.<br/>PRACE White Paper n°182 (2014) <br/>[Full text](http://www.prace-ri.eu/IMG/pdf/WP182.pdf) |
 
+### Other
+
+| **Towards Reconfigurable HPC Component Models**<br/> Perez C., Lanore V.<br/> 2018 International Conference on High Performance Computing & Simulation (HPCS). IEEE, 2018.<br/> Paper for keynote talk by Christian Pérez <br/>[Full text](files/hpcs.pdf) |
+
 ## External talks
 
 (Internal team and project talks not listed. Conference talks with associated papers listed above as papers)
