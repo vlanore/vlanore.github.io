@@ -1,2 +1,7 @@
 title: Vincent Lanore
 theme: jekyll-theme-slate
+description: professional page of Vincent Lanore
+lang: en_US
+url: www.vlanore.eu
+plugins:
+  - jekyll-seo-tag
