@@ -78,8 +78,7 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 (Internal team and project talks not listed. Conference talks with associated papers listed above as papers)
 
-| **Detecting convergent amino acid evolution in the presence of mutational biases**<br/>
-SMBE Conference <br/>Manchester, <font color="red">planned talk (Jul 22nd)</font><br/>[accepted abstract](smbe.html) |
+| **Detecting convergent amino acid evolution in the presence of mutational biases**<br/>SMBE Conference <br/>Manchester, <font color="red">planned talk (Jul 22nd)</font><br/>[accepted abstract](smbe.html) |
 
 | **Detecting convergent substitutions with sparse codon-based differential-selection models**<br/>ALPHY conference<br/>Paris, February 8th<br/>[abstract](alphy.html) - [slides](files/alphy.pdf) |
 
