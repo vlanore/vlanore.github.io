@@ -11,6 +11,27 @@ layout: default
 
 ## Main software projects
 
+## Bayes toolbox ([link](https://github.com/vlanore/bayes_toolbox))
+
+**Bayes toolbox** is a C++14 header-only library for high-performance Bayesian inference that enables low-level optimizations.
+Data types are kept as simple as possible (e.g. structs with raw ` double` members) but the library provides powerful polymorphic operations on those datatypes.
+Polymorphism is obtained at compile-time with template metaprogramming to minimize runtime overhead.
+
+Here is a small example of what can be done with the library:
+```cpp
+// simple graphical model
+auto alpha = make_node<exponential>(1.0);
+auto mu = make_node<exponential>(1.0);
+auto lambda = make_node_array<gamma_ss>(5, n_to_one(alpha), n_to_one(mu)); //node array
+
+auto gen = make_generator(); // random generator
+draw(alpha, gen); // draw in distribution
+draw(mu, gen);
+draw(lambda, gen); // draws whole array
+double my_logprob = logprob(alpha) + logprob(mu) + logprob(lambda);
+```
+
+
 ### Tinycompo ([link](https://github.com/vlanore/tinycompo))
 
 **Tinycompo** is a component-based framework embedded in C++. It proposes to describe applications as assemblies of software units called *components*.
