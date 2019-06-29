@@ -11,7 +11,7 @@ layout: default
 
 ## Main software projects
 
-## Bayes toolbox ([link](https://github.com/vlanore/bayes_toolbox))
+### Bayes toolbox ([link](https://github.com/vlanore/bayes_toolbox))
 
 **Bayes toolbox** is a C++14 header-only library for high-performance Bayesian inference that enables low-level optimizations.
 Data types are kept as simple as possible (e.g. structs with raw ` double` members) but the library provides powerful polymorphic operations on those datatypes.
