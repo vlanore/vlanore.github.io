@@ -46,7 +46,9 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 ### International Peer-Reviewed Journals
 
-| **Fostering Reuse in Scientific Computing with Embedded Components: Application to high-performance Bayesian inference for bioinformatics**<br/>Lanore V.<br/>Computing in Science & Engineering (CiSE)  - Special issue on Accelerating Scientific Discovery with Reusable Software<br/><font color="red">(accepted for publication in 2019, preprint 10.1109/MCSE.2018.2883600)</font> <br/>[Full text](files/cise.pdf) - [IEEE preprint page](https://ieeexplore.ieee.org/document/8554141) |
+| **Detecting convergent adaptive amino acid evolution**<br/>Rey C., Lanore V., Veber P., Guéguen L., Lartillot N., Sémon M., Boussau B.<br/>Philosophical Transactions of the Royal Society B.<br/>[Full text on BioRxiv](https://www.biorxiv.org/content/early/2019/01/07/513010) |
+
+| **Fostering Reuse in Scientific Computing with Embedded Components: Application to high-performance Bayesian inference for bioinformatics**<br/>Lanore V.<br/>Computing in Science & Engineering (CiSE)  - Special issue on Accelerating Scientific Discovery with Reusable Software.<br/>[Full text](files/cise.pdf) |
 
 ### International Peer-Reviewed Conferences
 
@@ -62,10 +64,6 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 
 | **On Scheduling Multi-level Applications**<br/>(*De l'ordonnancement des applications multi-niveaux*)<br/>Lanore V., Klein C.<br/>Conférence en parallélisme, architecture et système (ComPAS'2013) <br/>Grenoble: France (2013) <br/> [Full text on HAL](http://hal.archives-ouvertes.fr/hal-00764007) |
 
-### Articles under Review
-
-| **Detecting convergent adaptive amino acid evolution**<br/>Rey C., Lanore V., Veber P., Guéguen L., Lartillot N., Sémon M., Boussau B.<br/>Philosophical Transactions of the Royal Society B.<br/><font color="red">The paper was submitted in September 2018 and is currently undergoing revision.</font><br/>Submitted version available on BiorXiv.<br/>[Full text on BioRxiv](https://www.biorxiv.org/content/early/2019/01/07/513010) |
-
 ### Technical Reports and White Papers
 
 | **A Calculus Enabling Reuse and Composition of Component Assembly Specialization Processes**<br/>Lanore V., Pérez C.<br/>Inria Research Report n°8761 (2015) <br/>[Full text on HAL](https://hal.archives-ouvertes.fr/hal-01179483) |
@@ -79,6 +77,9 @@ An implementation of DirectMOD, called DirectL2C, as been developed so as to imp
 ## External talks
 
 (Internal team and project talks not listed. Conference talks with associated papers listed above as papers)
+
+| **Detecting convergent amino acid evolution in the presence of mutational biases**<br/>
+SMBE Conference <br/>Manchester, <font color="red">planned talk (Jul 22nd)</font><br/>[accepted abstract](smbe.html) |
 
 | **Detecting convergent substitutions with sparse codon-based differential-selection models**<br/>ALPHY conference<br/>Paris, February 8th<br/>[abstract](alphy.html) - [slides](files/alphy.pdf) |
 
